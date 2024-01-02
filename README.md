@@ -53,7 +53,7 @@ This project implements a Smart Home Automation System utilizing the ATmega328P 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AsimALiMurtaza/Home-Automation.git
+   git clone https://github.com/AsimAliMurtaza/Home-Automation.git
    ```
 
 2. **Open the Arduino IDE:**
